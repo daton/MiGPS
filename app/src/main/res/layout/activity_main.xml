@@ -14,7 +14,7 @@
         android:gravity="center"
         android:textSize="20sp"
         android:layout_height="wrap_content"
-        android:text="My Location" />
+        android:text="Mi localizacion" />
     <TextView
         android:layout_marginTop="10dp"
         android:textSize="18sp"
